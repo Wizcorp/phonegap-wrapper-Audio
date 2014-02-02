@@ -1,0 +1,13 @@
+{
+	"name": "pgAudio",
+	"repo": "Wizcorp/phonegap-wrapper-Audio",
+	"version": "0.1.0",
+	"dependencies": {
+		"Wizcorp/phonegap-wrapper-Core": "0.1.0",
+		"Wizcorp/phonegap-wrapper-Storage": "0.1.0"
+	},
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
